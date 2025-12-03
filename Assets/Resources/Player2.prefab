@@ -373,7 +373,7 @@ MonoBehaviour:
     EnableNS: 1
   stopRecordingWhenPaused: 0
   useOnAudioFilterRead: 0
-  useMicrophoneTypeFallback: 1
+  useMicrophoneTypeFallback: 0
   recordWhenJoined: 1
 --- !u!114 &-589535871336093144
 MonoBehaviour:
