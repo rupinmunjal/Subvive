@@ -495,7 +495,7 @@ MonoBehaviour:
   frameDuration: 40000
   bitrate: 30000
   sourceType: 0
-  microphoneType: 1
+  microphoneType: 0
   audioClip: {fileID: 0}
   loopAudioClip: 1
   recordingEnabled: 1
@@ -510,7 +510,7 @@ MonoBehaviour:
     EnableNS: 1
   stopRecordingWhenPaused: 0
   useOnAudioFilterRead: 0
-  useMicrophoneTypeFallback: 1
+  useMicrophoneTypeFallback: 0
   recordWhenJoined: 1
 --- !u!114 &4029125726155934739
 MonoBehaviour:
